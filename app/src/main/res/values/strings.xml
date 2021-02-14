@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mortgage Calculator by Catherine Kuntoro</string>
+    <string name="instructionsCalculate">Press CALCULATE for monthly payments.</string>
+</resources>
